@@ -6,6 +6,12 @@
 3. [VS Code]()
 4. [Git cli]()
 
+```
+# git create repository - add read me, git ignore select -> python, add license apache 2.0
+# create new folder in local, open cmd same location, git clone (url path of the repository)
+# add pickle and ipynb file to the new folder.
+# open vss at the same location  -  now we have sync between git repo and local folder
+```
 
 Create new environment 
 ```
@@ -26,5 +32,15 @@ pip install -r requirements.txt
 ```
 git config --global user.name
 git config --global user.email
+
+git add filename
+git status
+
+git rm --cache file.name
+
+git commit -m "message"
+
+git push origin main       --origin to main branch
+
 ```
 
