@@ -43,4 +43,13 @@ git commit -m "message"
 git push origin main       --origin to main branch
 
 ```
+```
+Hiraku - deployment 
+create Proc file
+
+we use G-unicorn commands in Proc file, G-unicorn is a pure python http server for wsgi applications it allows us to run python applications concurrently by running multiple processes
+
+
+```
+
 
